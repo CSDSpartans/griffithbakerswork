@@ -1,7 +1,7 @@
 # griffithbakerswork
 
 ## Projects I'm a part of 📦
-### [Minnow Plugins](https://github.com/PostsDesert/MinnowPlugins) - A repo holding a bunch of plugins for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).
+[Minnow Plugins](https://github.com/PostsDesert/MinnowPlugins) - A repo holding a bunch of plugins for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).
 
 [Gee Music](https://github.com/stevenleeg/geemusic) - A compatibility layer for Google Play Music and Amazon Alexa.
 
