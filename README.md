@@ -8,6 +8,6 @@
 [Ghost](https://github.com/TryGhost/Ghost) - A blogging platform that I used as a base for my website [griffithbaker.com](https://griffithbaker.com). (The Code is on my server)
 
 [Gilligan] - I've been tinkering with Gilligan (My Private linux server) and have added various hosting software, administration managements, and a nice [MOTD](https://en.wikipedia.org/wiki/Motd_(Unix)).
-[[https://github.com/CSDSpartans/griffithbakerswork/Gilligan/GilliganMOTD.png|alt=Gilligan MOTD]]
+[[https://github.com/CSDSpartans/griffithbakerswork/Gilligan/GilliganMOTD.png|alt=GilliganMOTD]]
 
 ~~[This That](https://github.com/PostsDesert/ThisThat) - An iOS app that was supposed to display results from /r/nottheonion and /r/theonion.~~
