@@ -1,7 +1,7 @@
 # griffithbakerswork
 
 ## Projects I'm a part of 📦
-[Minnow Plugins](https://github.com/PostsDesert/MinnowPlugins) - A repo holding a bunch of plugins for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).
+[HitAutomator]()🅱️ - A up and coming browser automator plugin to automate [Hitpredictor](https://hitpredictor.com) so I don't have to listen to the god awful music.
 
 [Gee Music](https://github.com/stevenleeg/geemusic) - A compatibility layer for Google Play Music and Amazon Alexa.
 
@@ -12,3 +12,5 @@
 ![Gillgan MOTD](https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png)
 
 ~~[This That](https://github.com/PostsDesert/ThisThat) - An iOS app that was supposed to display results from /r/nottheonion and /r/theonion.~~
+
+~~[Minnow Plugins](https://github.com/PostsDesert/MinnowPlugins) - A repo holding a bunch of plugins for [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot).~~
