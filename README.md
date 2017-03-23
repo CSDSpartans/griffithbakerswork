@@ -1,7 +1,7 @@
 # griffithbakerswork
 
 ## Projects I'm a part of 📦
-[HitAutomator]()🅱️ - A up and coming browser automator plugin to automate [Hitpredictor](https://hitpredictor.com) so I don't have to listen to the god awful music.
+[HitAutomator]()🚨 - A up and coming browser automator plugin to automate [Hitpredictor](https://hitpredictor.com) so I don't have to listen to the god awful music.
 
 [Gee Music](https://github.com/stevenleeg/geemusic) - A compatibility layer for Google Play Music and Amazon Alexa.
 
