@@ -7,6 +7,8 @@
 
 [Ghost](https://github.com/TryGhost/Ghost) - A blogging platform that I used as a base for my website [griffithbaker.com](https://griffithbaker.com). (The Code is on my server)
 
+[S.i.R.I.](https://github.com/PostsDesert/SiRI) - Standing for Schoology iOS Reminders Integration, This elegant script syncs your schoology events and upcoming assignments and adds them to ios reminders with a alarms and short link.
+
 [Gilligan](https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png) - I've been tinkering with Gilligan (My Private linux server) and have added various hosting software, administration managements, and a nice [MOTD](https://en.wikipedia.org/wiki/Motd_(Unix)).
 
 ![Gillgan MOTD](https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png)
