@@ -5,7 +5,7 @@
 
 [Gee Music](https://github.com/stevenleeg/geemusic) - A compatibility layer for Google Play Music and Amazon Alexa.
 
-[Ghost](https://github.com/TryGhost/Ghost) - A blogging platform that I used as a base for my website [griffithbaker.com](https://griffithbaker.com). (The Code is on my server)
+[Ghost](https://github.com/TryGhost/Ghost) - A blogging platform that I used as a base for my website [griffithbaker.com](https://griffithbaker.com). (The Code is on my server and includes an modified theme and extreme optimizations)
 
 [S.i.R.I.](https://github.com/PostsDesert/SiRI) - Standing for Schoology iOS Reminders Integration, This elegant script syncs your schoology events and upcoming assignments and adds them to ios reminders with a alarms and short link.
 <p align="center"><img src="http://i.imgur.com/csdR86p.png?1" /></p>
