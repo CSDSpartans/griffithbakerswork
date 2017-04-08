@@ -11,8 +11,7 @@
 <p align="center"><img src="http://i.imgur.com/csdR86p.png?1" /></p>
 
 [Gilligan](https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png) - I've been tinkering with Gilligan (My Private linux server) and have added various hosting software, administration managements, and a nice [MOTD](https://en.wikipedia.org/wiki/Motd_(Unix)).
-
-![Gillgan MOTD](https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png)
+<p align="center"><img src="https://raw.githubusercontent.com/CSDSpartans/griffithbakerswork/master/Gilligan/GilliganMOTD.png" /></p>
 
 ~~[This That](https://github.com/PostsDesert/ThisThat) - An iOS app that was supposed to display results from /r/nottheonion and /r/theonion.~~
 
